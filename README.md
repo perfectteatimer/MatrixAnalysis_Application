@@ -3,6 +3,9 @@ This repository contains practice homework projects related to applied aspects o
 
 ### Overview of project
 lab1 - In this project, I worked with one possible application of singular value decomposition - finding a "good" basis (eigenfaces) in a set of images and using it to find similar images.
+
 lab2 - In this project, I built a recommendation model based on sparse rank approximations of sparse matrices.
+
 lab3 - In this project, I constructed a tomogram of some object using data on the intensity of rays that passed through it. 
+
 
