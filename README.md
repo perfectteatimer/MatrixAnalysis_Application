@@ -1,2 +1,2 @@
-# MatrixAnalysis_application-
-A repository with an application of matrix methods in Python 
+#
+Applied aspects of working with matrices and implementing computational linear algebra algorithms in Python.
